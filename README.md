@@ -2,7 +2,7 @@
 microcontroller-vtu-4th-sem-lab-programs
 
 # 2nd program
-## Arithmetic and logical operation 
+  ## Arithmetic and logical operation 
 	AREA MYCODE, CODE, READONLY
 		 ENTRY
 		 LDR R1, Numb1
